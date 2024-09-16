@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Logan.jlys@gmail.com**
 
-- ⚡ Fun fact **J'aime beaucoup de la créativité**
+- ⚡ Fun fact **Je parle le créole Guadeloupéen**
 
 
 <h3 align="left">Languages and Framework:</h3>
