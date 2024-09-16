@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Logan JEANLYS</h1>
 <h3 align="center">Développeur Junior</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 📊 I search **Une alternance en tant que développeur**
 
-- 🤝 I’m looking for help with **Devs in general**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **Logan.jlys@gmail.com**
 
